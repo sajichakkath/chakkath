@@ -1,6 +1,5 @@
 <h1> Chakkath School</h1>
-
-You can use the [editor on GitHub](https://github.com/sajichakkath/chakkath/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We have various facilities at Chakkath School, check them below.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
