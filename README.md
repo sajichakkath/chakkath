@@ -1,8 +1,5 @@
 <h1> Chakkath School</h1>
-We have various facilities at Chakkath School, check them below.
-#Account
-##username
-###Password
+We have various facilities at Chakkath School, check them below
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
