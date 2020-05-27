@@ -7,7 +7,8 @@ We have various facilities at Chakkath School, check them below
   <input type="password" id="pwd" name="pwd"><br>
   <br>
   <input type="submit" value="Submit">
-  <input type="reset">
+  <input type="reset"><br>
+  
   <label for="email">Enter your email : </label>
   <input type="email id="email" name="email">
                                             <label for="homepage">www.google.com:</label>
