@@ -10,7 +10,7 @@ We have various facilities at Chakkath School, check them below
   <input type="reset"><br>
   
   <label for="email">Enter your email : </label>
-  <input type="email id="email" name="email">
+  
   <input type="url" id="homepage" name="homepage">
                                                                                                                 
                                           
