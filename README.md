@@ -5,7 +5,15 @@ We have various facilities at Chakkath School, check them below
   <input type="text" id="username" name="username"><br>
     <label for="pwd">Password:</label><br>
   <input type="password" id="pwd" name="pwd"><br>
-  
+  <br>
+  <input type="submit" value="Submit">
+  <input type="reset">
+  <label for="email">Enter your email : </label>
+  <input type="email id="email" name="email">
+                                            <label for="homepage">www.google.com:</label>
+                                                                 <input type="url" id="homepage" name="homepage">
+                                                                                                                
+                                          
   </form>
 <div> School
 </div>
