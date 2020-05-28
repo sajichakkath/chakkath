@@ -1,5 +1,10 @@
 <h1> Chakkath School</h1>
 We have various facilities at Chakkath School, check them below
+<nav>
+ Academics 
+  </nav>
+  
+
 <form>
   <label for="username">Username:</label><br>
   <input type="text" id="username" name="username"><br>
