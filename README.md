@@ -1,7 +1,11 @@
 <h1> Chakkath School</h1>
 We have various facilities at Chakkath School, check them below
 <nav>
- Academics 
+    <ul>
+      <li><a href="#">London</a></li>
+      <li><a href="#">Paris</a></li>
+      <li><a href="#">Tokyo</a></li>
+    </ul>
   </nav>
   
 
