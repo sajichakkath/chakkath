@@ -1,21 +1,11 @@
 <h1> Chakkath School</h1>
-We have various facilities at Chakkath School, check them below
-<nav>
-    <ul>
-      <li><a href="#">London</a></li>
-      <li><a href="#">Paris</a></li>
-      <li><a href="#">Tokyo</a></li>
-    </ul>
-  </nav>
-   <article>
-    <h1>London</h1>
-    <p>London is the capital city of England. It is the most populous city in the  United Kingdom, with a metropolitan area of over 13 million inhabitants.</p>
-    <p>Standing on the River Thames, London has been a major settlement for two millennia, its history going back to its founding by the Romans, who named it Londinium.</p>
-  </article>
-  
-  
-
+<p1>We have various facilities at Chakkath School, check them below.
+    </p1>
+    
+    <p2 style="colour:red;">School openning soon.</p2>
+<p2 style="font-size:50px;"</p2>
 <form>
+    
   <label for="username">Username:</label><br>
   <input type="text" id="username" name="username"><br>
     <label for="pwd">Password:</label><br>
