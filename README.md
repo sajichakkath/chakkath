@@ -1,8 +1,8 @@
 <h1> Chakkath School</h1>
 <p1>We have various facilities at Chakkath School, check them below.
     </p1>
-    
-    <p2 style="colour:red;">School openning soon.</p2>
+    <p2>
+    <p2 style="colour:red;">School openning soon.
 <p2 style="font-size:50px;"</p2>
 <form>
     
