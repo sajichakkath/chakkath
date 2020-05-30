@@ -1,9 +1,16 @@
 <h1> Chakkath School</h1>
 <p1>We have various facilities at Chakkath School, check them below.
     </p1>
-    <p2>
-    <p2 style="colour:red;">School openning soon.
-<p2 style="font-size:50px;"</p2>
+   <style>
+        <table {font-family: arial, sans-serif; 
+    border-collapse; collapse; 
+    width: 100%;}
+    td, th {
+border: 1px solid #dddddd
+text-align: left;
+padding: 8px;}
+tr:nth-child(even)               
+               </style>
 <form>
     
   <label for="username">Username:</label><br>
