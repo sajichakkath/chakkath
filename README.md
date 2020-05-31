@@ -1,6 +1,12 @@
 <h1> Chakkath School</h1>
 <p1>We have various facilities at Chakkath School, check them below.
     </p1>
+    <select>
+  <option value="volvo">Volvo</option>
+  <option value="saab">Saab</option>
+  <option value="opel">Opel</option>
+  <option value="audi">Audi</option>
+</select>
   <style>
 table {
     font-family: arial, sans-serif;
