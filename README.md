@@ -18,10 +18,9 @@ tr:nth-child(even) {
     background-color: #dddddd;
 }
 </style>
-</head>
 <body>
 
-<h2>HTML Table</h2>
+<h2>List of facilities</h2>
 
 <table>
   <tr>
