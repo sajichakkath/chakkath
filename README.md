@@ -1,6 +1,12 @@
 <h1> Chakkath School</h1>
 <p1>We have various facilities at Chakkath School, check them below.
-    </p1>
+  <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+
+<img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+<button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">Turn off the light</button>
+
+  </p1>
     <select>
   <option value="volvo"> Volvo </option>
   <option value="saab"> Saab </option>
